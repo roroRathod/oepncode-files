@@ -17,7 +17,6 @@
         "GOOGLE_WORKSPACE_SERVICES": "gmail,calendar,drive,docs"
       }
     }
-    }
   },
   "plugin": ["context-mode"],
 
